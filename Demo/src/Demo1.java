@@ -4,11 +4,11 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
-//主界面测试------------------
+//------------主界面测试------------------
 public class Demo1 extends JFrame{
     Demo1() {
         Font f = new Font("华文行楷", Font.BOLD, 36);
-        //身份选择按钮
+        //身份选择按钮啊啊啊啊
         JRadioButton btn3=new JRadioButton("学生端");
         JRadioButton btn4=new JRadioButton("教师端");
         JRadioButton btn5=new JRadioButton("管理端");
@@ -115,8 +115,6 @@ public class Demo1 extends JFrame{
         btn2.setOpaque(false);
         add(btn2);
         setVisible(true);
-
-
     }
     public static void main(String[] args) {
         Demo1 d=new Demo1();
