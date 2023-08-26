@@ -1,5 +1,5 @@
 
-//这是第一份代码   ..
+//这是第一份代码   ....
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.MouseAdapter;
