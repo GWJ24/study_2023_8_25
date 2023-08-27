@@ -85,6 +85,9 @@ public class Demo2 extends JFrame
         });
         add(btn4);
 
+
+
+
         JButton btn5=new JButton("阿牛");
         btn5.setBounds(258,517,196,86);
         btn5.setOpaque(false);
